@@ -6,6 +6,9 @@ experimento 1
 
 experimento 2
 
+*-Hola! Esta es la primera linea de experimento donde veremos como usar cherry pick
+*-Hola, en esta segunda linea se explicara el comando es git cherry-pick "nombre del commit"
+
 
 
 
