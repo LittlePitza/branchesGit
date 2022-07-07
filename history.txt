@@ -9,6 +9,12 @@ experimento 2
 *-Hola! Esta es la primera linea de experimento donde veremos como usar cherry pick
 *-Hola, en esta segunda linea se explicara el comando es git cherry-pick "nombre del commit"
 
+*-Hola, en esta tercera linea se explicara el comando es git cherry-pick --no-commit "nombre del commit"
+*-Hola, en esta cuarta linea se explicara el comando es git cherry-pick --allow-empty "nombre del commit"
+
+
+*-Hola, en esta quinta linea se explicara el comando es git cherry-pick --allow-empty --no-commit "nombre del commit"
+
 
 
 
