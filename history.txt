@@ -13,6 +13,7 @@ experimento 2
 *-Hola, en esta cuarta linea se explicara el comando es git cherry-pick --allow-empty "nombre del commit"
 
 
+*-Hola, en esta quinta linea se explicara el comando es git cherry-pick --allow-empty --no-commit "nombre del commit"
 
 
 
